@@ -68,20 +68,6 @@
     position: relative;
     margin: 0;
 }
-.fileinput-button input {
-    /*position: absolute;
-    top: 0;
-    right: 0;
-    margin: 0;*/
-    /*font-size: 200px;
-    direction: ltr;
-    cursor: pointer;
-    display: none !important;*/
-    opacity: 0;
-    -ms-filter: 'alpha(opacity=0)';
-    max-width: 0;
-    width: 0;
-}
 
 .image_upload_drop_zone
 {
